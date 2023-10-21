@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0IbjoPoqywASxiyXj-3JDdky-NjKoLk4zA&usqp=CAU)
+[![MasterHead](img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0IbjoPoqywASxiyXj-3JDdky-NjKoLk4zA&usqp=CAU" )
 <h1 align="center">Hi 👋, I'm Nabin kumar shaw</h1>
 <h3 align="center">A passionate and a qiuck learner</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
